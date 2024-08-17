@@ -21,4 +21,4 @@
 
 Загружаем прошивку, радуемся)
 
-Ссылка на Телеграм - t.me/baby_developer
+Ссылка на Телеграм - [t.me/baby_developer](https://t.me/baby_developer)
