@@ -15,7 +15,7 @@
 
 Смотрим распиновку ESP32 и подключаемся ![изображение](https://github.com/user-attachments/assets/827db714-4b95-4fc6-998d-76395f6c9e89)
 
-Схеиа подключения
+Схема подключения
 
 ![изображение](https://github.com/user-attachments/assets/80b20ba9-68d3-4f9b-9ddf-3a2f229580e6)
 
